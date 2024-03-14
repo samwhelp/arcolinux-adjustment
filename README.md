@@ -59,7 +59,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Arcolinux Adjustment / Xfce](https://samwhelp.github.io/arcolinux-adjustment-xfce/) | [GitHub](https://github.com/samwhelp/arcolinux-adjustment-xfce) |
+| [Arcolinux Adjustment / Xfce](https://samwhelp.github.io/arcolinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-xfce-adjustment) |
 
 
 
