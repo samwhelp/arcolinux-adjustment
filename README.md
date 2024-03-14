@@ -11,9 +11,18 @@
 
 ## Subject
 
-* [Arcolinux](#arcolinux)
 * [Arcolinux Adjustment](#arcolinux-adjustment)
+* [Arcolinux](#arcolinux)
 * [Link](#link)
+
+
+
+
+## Arcolinux Adjustment
+
+| Link | GitHub |
+| ---- | ------ |
+| [Arcolinux Xfce Adjustment](https://samwhelp.github.io/arcolinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-xfce-adjustment) |
 
 
 
@@ -52,14 +61,6 @@
 | [Alci](https://alci.online/) | [Github](https://github.com/arch-linux-calamares-installer) | [SourceForge](https://sourceforge.net/p/alci/) |
 | [Ariser](https://ariser.eu/) | [Github](https://github.com/ariser-installer) | [SourceForge](https://sourceforge.net/p/archlinux-alis/) |
 
-
-
-
-## Arcolinux Adjustment
-
-| Link | GitHub |
-| ---- | ------ |
-| [Arcolinux Xfce Adjustment](https://samwhelp.github.io/arcolinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-xfce-adjustment) |
 
 
 
