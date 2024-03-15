@@ -23,7 +23,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Arcolinux Xfce Adjustment](https://samwhelp.github.io/arcolinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-xfce-adjustment) |
-
+| [Arcolinux Lxqt Adjustment](https://samwhelp.github.io/arcolinux-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-lxqt-adjustment) |
+| [Arcolinux Kde Plasma Adjustment](https://samwhelp.github.io/arcolinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-kde-plasma-adjustment) |
 
 
 
