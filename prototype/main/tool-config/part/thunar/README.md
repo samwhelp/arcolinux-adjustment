@@ -1,6 +1,6 @@
 
 
-# Sakura
+# Thunar
 
 * [Config File Path](#config-file-path)
 * [Arch Package](#arch-package)
@@ -13,7 +13,9 @@
 
 | Config File Path |
 | --- |
-| [~/.config/sakura/sakura.conf](./asset/overlay/etc/skel/.config/sakura/sakura.conf) |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml](./asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml) |
+| [~/.config/Thunar/uca.xml](./asset/overlay/etc/skel/.config/Thunar/uca.xml) |
+| [~/.config/Thunar/accels.scm](./asset/overlay/etc/skel/.config/Thunar/accels.scm) |
 
 
 
@@ -22,7 +24,7 @@
 
 | Arch Package |
 | --- |
-| [sakura](https://archlinux.org/packages/extra/x86_64/sakura/) |
+| [thunar](https://archlinux.org/packages/extra/x86_64/thunar/) |
 
 
 
@@ -72,21 +74,6 @@ or run
 
 ``` sh
 make asset-install
-```
-
-
-### prototype-install
-
-run
-
-``` sh
-./prototype-install.sh
-```
-
-or run
-
-``` sh
-make prototype-install
 ```
 
 
