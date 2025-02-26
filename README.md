@@ -52,7 +52,7 @@
 | Main Website | GitHub | SourceForge |
 | --- | --- | --- |
 | [arcolinux.com](https://arcolinux.com/) | [GitHub](https://github.com/arcolinux) | [SourceForge](https://sourceforge.net/u/arcolinux/profile/) |
-| [arcolinuxb.com](https://www.arcolinuxb.com/) | [GitHub](https://github.com/arcolinuxb) | [SourceForge](https://sourceforge.net/projects/arcolinux-community-editions/) |
+| [arcolinuxb.com](https://www.arcolinuxb.com/) | [GitHub](https://github.com/arcolinuxb) | [SourceForge](https://sourceforge.net/p/arcolinux-community-editions/) |
 | [arcolinuxd.com](https://www.arcolinuxd.com/) | [Github](https://github.com/arcolinuxd) | [SourceForge](https://sourceforge.net/projects/arcolinux/) |
 
 
