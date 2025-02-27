@@ -23,7 +23,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [thunar](https://archlinux.org/packages/extra/x86_64/thunar/) |
 
 

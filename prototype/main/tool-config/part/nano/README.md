@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [nano](https://archlinux.org/packages/core/x86_64/nano/) |
 
 

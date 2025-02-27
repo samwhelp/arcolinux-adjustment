@@ -24,7 +24,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [geany](https://archlinux.org/packages/extra/x86_64/geany/) |
 
 

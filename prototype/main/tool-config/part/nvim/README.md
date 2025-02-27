@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [neovim](https://archlinux.org/packages/extra/x86_64/neovim/) |
 
 

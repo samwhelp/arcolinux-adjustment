@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [qterminal](https://archlinux.org/packages/extra/x86_64/qterminal/) |
 
 

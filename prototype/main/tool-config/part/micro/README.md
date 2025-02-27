@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [micro](https://archlinux.org/packages/extra/x86_64/micro/) |
 
 

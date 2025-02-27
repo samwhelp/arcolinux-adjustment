@@ -22,7 +22,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [xfce4-terminal](https://archlinux.org/packages/extra/x86_64/xfce4-terminal/) |
 
 

@@ -25,7 +25,7 @@ variety.desktop) |
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [variety](https://archlinux.org/packages/extra/any/variety/) |
 
 

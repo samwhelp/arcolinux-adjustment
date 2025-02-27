@@ -12,7 +12,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [mousepad](https://archlinux.org/packages/extra/x86_64/mousepad/) |
 
 

@@ -21,7 +21,7 @@
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [rofi](https://archlinux.org/packages/extra/x86_64/rofi/) |
 
 
