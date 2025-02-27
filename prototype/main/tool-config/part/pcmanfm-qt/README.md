@@ -1,5 +1,12 @@
 
+
 # Pcmanfm-Qt
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
@@ -11,6 +18,8 @@
 | Config File Path (lxqt) |
 | --- |
 | [~/.config/pcmanfm-qt/lxqt/settings.conf](./asset/overlay/etc/skel/.config/pcmanfm-qt/lxqt/settings.conf) |
+
+
 
 
 ## Arch Package

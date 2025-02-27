@@ -1,5 +1,12 @@
 
+
 # Micro
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
@@ -7,6 +14,8 @@
 | Config File Path |
 | --- |
 | [~/.config/micro/settings.json](./asset/overlay/etc/skel/.config/micro/settings.json) |
+
+
 
 
 ## Arch Package

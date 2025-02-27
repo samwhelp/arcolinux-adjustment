@@ -2,6 +2,12 @@
 
 # Mousepad
 
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
+
 
 ## Arch Package
 

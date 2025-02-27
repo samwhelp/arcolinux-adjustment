@@ -1,5 +1,12 @@
 
+
 # Featherpad
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
@@ -9,6 +16,8 @@
 | [~/.config/featherpad/fp.conf](./asset/overlay/etc/skel/.config/featherpad/fp.conf) |
 | [~/.config/featherpad/fp_dark_syntax_colors.conf](./asset/overlay/etc/skel/.config/featherpad/fp_dark_syntax_colors.conf) |
 | [~/.config/featherpad/fp_light_syntax_colors.conf](./asset/overlay/etc/skel/.config/featherpad/fp_light_syntax_colors.conf) |
+
+
 
 
 ## Arch Package

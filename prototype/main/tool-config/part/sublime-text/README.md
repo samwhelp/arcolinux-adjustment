@@ -1,5 +1,12 @@
 
+
 # Sublime-Text
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
@@ -7,6 +14,8 @@
 | Config File Path |
 | --- |
 | [~/.config/sublime-text/Packages/User/Preferences.sublime-settings](./asset/overlay/etc/skel/.config/sublime-text/Packages/User/Preferences.sublime-settings) |
+
+
 
 
 ## Debian Package / Download
