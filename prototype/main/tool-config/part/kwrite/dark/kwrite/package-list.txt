@@ -11,4 +11,5 @@
 ## ## Package / kwrite
 ##
 
-kwrite
+#kwrite
+kate
