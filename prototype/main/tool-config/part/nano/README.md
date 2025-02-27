@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/nano/nanorc](./asset/overlay/etc/skel/.config/nano/nanorc) |
 
 

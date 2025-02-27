@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.vim/vimrc](./asset/overlay/etc/skel/.vim/vimrc) |
 
 

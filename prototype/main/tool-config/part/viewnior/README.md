@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/viewnior/viewnior.conf](./asset/overlay/etc/skel/.config/viewnior/viewnior.conf) |
 
 

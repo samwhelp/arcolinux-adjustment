@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/mpv/mpv.conf](./asset/overlay/etc/skel/.config/mpv/mpv.conf) |
 
 
