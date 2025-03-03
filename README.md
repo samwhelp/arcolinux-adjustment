@@ -11,20 +11,32 @@
 
 ## Subject
 
-* [Arcolinux Adjustment](#arcolinux-adjustment)
+* [Arcolinux Respin](#arcolinux-respin)
+* [Script](#script)
 * [Arcolinux](#arcolinux)
 * [Link](#link)
 
 
 
 
-## Arcolinux Adjustment
+## Arcolinux Respin
 
 | Link | GitHub |
 | ---- | ------ |
 | [Arcolinux Xfce Adjustment](https://samwhelp.github.io/arcolinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-xfce-adjustment) |
 | [Arcolinux Lxqt Adjustment](https://samwhelp.github.io/arcolinux-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-lxqt-adjustment) |
 | [Arcolinux Kde Plasma Adjustment](https://samwhelp.github.io/arcolinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/arcolinux-kde-plasma-adjustment) |
+
+
+
+
+## Script
+
+| Script |
+| ------ |
+| [Arco Linux Config](https://github.com/samwhelp/arcolinux-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/arcolinux-adjustment/tree/main/prototype/main/tool-config/part) |
+
 
 
 
